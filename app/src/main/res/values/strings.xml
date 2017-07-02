@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ImplicitIntentDemo1</string>
+    <string-array name="intents">
+        <item>Open Browser</item>
+        <item>Dial a call</item>
+        <item>Show map</item>
+        <item>Take picture</item>
+        <item>Show contacts</item>
+    </string-array>
+</resources>
